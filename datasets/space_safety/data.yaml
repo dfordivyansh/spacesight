@@ -1,0 +1,5 @@
+train: C:\Users\dford\Desktop\Tech Titans Code Space\datasets\space_safety\train\images
+val: C:\Users\dford\Desktop\Tech Titans Code Space\datasets\space_safety\val\images
+
+nc: 4  # number of classes (update as per your dataset)
+names: ['helmet', 'oxygen_tank', 'toolbox', 'fire_extinguisher']
