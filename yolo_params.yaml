@@ -1,9 +1,9 @@
-path: C:/Users/dford/Desktop/Tech Titans Code Space/predictions
+path: datasets
 train: train/images
 val: val/images
-test: C:/Users/dford/Desktop/Tech Titans Code Space/predictions/test
+test: test/images
 
-names: 
-  0: FireExtinguisher 
+names:
+  0: FireExtinguisher
   1: ToolBox
   2: OxygenTank
