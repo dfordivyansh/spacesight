@@ -1,11 +1,11 @@
 # 🛰️ Space Station Object Detection  
-### 💡 CodeClash 2.0 — Duality AI Hackathon Submission  
-**Team:** Tech Titans 
+### 💡 Hacksetu 1.0  
+**Team:** CogniCore 
 
 
 ## 🧩 Overview
 
-This project was developed for the **Duality AI Space Station Simulation Challenge** hosted on **CodeClash 2.0**. We utilized **YOLOv8** and synthetic data from Duality AI’s **Falcon platform** to train an object detection model capable of identifying essential tools in a simulated zero-gravity space station environment.  
+This project was developed for the **Hacksetu 1.0** hosted by **Amity University, Gwalior**. We utilized **YOLOv8** and synthetic data from Duality AI’s **Falcon platform** to train an object detection model capable of identifying essential tools in a simulated zero-gravity space station environment.  
 
 ### 🎯 Objects Detected:
 - 🔧 **Toolbox**  
